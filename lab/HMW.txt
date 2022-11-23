@@ -1,0 +1,6 @@
+How might we design the part of data collection?
+How might we build the channel for user to contact with administrator?
+How might we find out the errors on the System?
+How might we design the feedback part for user?
+How might we store the data?
+How might we judge the reasonableness of system operation results?
